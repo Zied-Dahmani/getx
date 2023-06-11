@@ -48,8 +48,8 @@ class Home extends StatelessWidget {
         ],
       ),
       floatingActionButton: FloatingActionButton(
-        // Get.off(const SecondScreen()) : pushReplacement
-        // Get.offAll(const SecondScreen()) : pushAndRemoveUntil
+        // Get.off(const SecondScreen())
+        // Get.offAll(const SecondScreen())
         // Get.back()
         // Get.toNamed("/first_screen")
         // Get.offNamed("/first_screen")
